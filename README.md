@@ -19,3 +19,8 @@ https://medguide.site
 
 ## Author
 Zainulla Sharief
+
+
+## License
+This project is protected under the “All Rights Reserved” license.  
+No part of this code may be copied or reused without permission.
